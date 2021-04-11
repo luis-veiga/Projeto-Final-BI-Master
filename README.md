@@ -1,4 +1,4 @@
-# Utilização de Séries Temporais para previsão de valor de ações 
+# Utilização de Séries Temporais para previsão do valor de ações 
 
 #### Aluna: [Luis Eduardo Ribeiro Veiga](https://github.com/luis-veiga).
 #### Orientadora: [Leonardo Forero Mendoza](https://github.com/leofome8).
